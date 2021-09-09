@@ -4,25 +4,30 @@
     justify-content: space-evenly;
 }
 
+
 .top-right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
+
 .instagram {
     font-size: 20px;
 }
+
 
 .lines {
     line-height: .3cm;
 }
 
-.bottom{
+
+.bottom {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
+
 
 .pictures{
     display: flex;
